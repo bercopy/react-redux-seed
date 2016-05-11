@@ -1,7 +1,7 @@
-# React Redux Seed
-> This project is an application skeleton for a React with Redux app.
+# The Circle
+> This project is an application mainly to improve and test our techniques using React and Redux.
 
-`React` is a UI library developed at Facebook to facilitate the creation of interactive, stateful & reusable UI components. It is used at Facebook in production, and Instagram.com is written entirely in React.
+<**asddas**> is a UI library developed at Facebook to facilitate the creation of interactive, stateful & reusable UI components. It is used at Facebook in production, and Instagram.com is written entirely in React.
 
 ## Main Dependencies
 
@@ -17,20 +17,27 @@
 ### Installation
 
 ```
-$ sudo npm install
+$cd circle  
+$npm install
+$npm start
+
+$open http://localhost:3000/
 ```
 
 ### Run App
 
 Create <b>bundle.js</b> in public folder by the command:
 ```
-$ webpack -w
+$npm start
+
+$open http://localhost:3000/
+
 ```
 
-Then. open <b>public/index.html</b> file in any browser.
+Or open <b>public/index.html</b> file in any browser.
 
 ## Unit Testing in ReactJS
-> Simplifies writing Unit Testing with mocha
+> Simplifies writing Unit Testing with Jest https://facebook.github.io/jest/
 
 ### Run Unit Testing
 
