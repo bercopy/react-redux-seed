@@ -1,7 +1,8 @@
 # The Circle
 > This project is an application mainly to improve and test our techniques using React and Redux.
 
-**The Circle** is a UI library developed at Facebook to facilitate the creation of interactive, stateful & reusable UI components. It is used at Facebook in production, and Instagram.com is written entirely in React.
+**The Circle** is an internal **MobGen** project to connect with all mobgeners offering than tips and instructions about MobGen and the city where the offices are places.
+Also is used to inform about events, contact and improve relationships between mobgeners.
 
 ## Main Dependencies
 
@@ -36,7 +37,6 @@ $open http://localhost:3000/
 Create <b>bundle.js</b> in public folder by the command:
 ```
 $npm start
-
 ```
 
 Open http://localhost:3000/ or <b>public/index.html</b> file in any browser.
