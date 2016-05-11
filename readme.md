@@ -6,7 +6,8 @@ Also is used to inform about events, contact and improve relationships between m
 
 ## Requirements
 
-<li>asddsa</li>
+<li>Node >= 5.8.0</li>
+<li>Npm >= 3.7.3</li>
 
 ## Usage
 
